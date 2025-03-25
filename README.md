@@ -1,6 +1,5 @@
-# complextechnology
+# Why Complex Technology Makes Us Less Safe
 
-Why Complex Technology Makes Us Less Safe
 As an IT student passionate about cybersecurity, I’m learning how much our digital safety depends on understanding the systems we use every day. Here’s a simple breakdown of why complex technology can actually make us less secure and what we can do about it.
 Today, we use technology for almost everything: banking, shopping, talking to friends, and even turning off the lights at home. These tools make life easier and faster. But here’s the problem: the more features technology has, the harder it is to keep safe.
 This is what experts mean when they say complexity is the enemy of security.
